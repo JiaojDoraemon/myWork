@@ -1,0 +1,11 @@
+INSERT INTO `account` (`CardId`, `AccountBalance`, `Identify`, `Password`, `Type`, `CreditLimit`, `effectiveDate`) VALUES ('1', '96.0', '123', '100', '5', '95.0', '2');
+INSERT INTO `account` (`CardId`, `AccountBalance`, `Identify`, `Password`, `Type`, `CreditLimit`, `effectiveDate`) VALUES ('12', '0', '2333', '1', '借记卡', '23', '23');
+INSERT INTO `account` (`CardId`, `AccountBalance`, `Identify`, `Password`, `Type`, `CreditLimit`, `effectiveDate`) VALUES ('123', '4.0', '111222333444555666', '223344', '信用卡', '10', '20180919');
+INSERT INTO `account` (`CardId`, `AccountBalance`, `Identify`, `Password`, `Type`, `CreditLimit`, `effectiveDate`) VALUES ('167386', '900.0', '11223344', '2233', '信用卡', '0', '10');
+INSERT INTO `account` (`CardId`, `AccountBalance`, `Identify`, `Password`, `Type`, `CreditLimit`, `effectiveDate`) VALUES ('3', '0', '3', '3', '借记卡', '3', '3');
+INSERT INTO `account` (`CardId`, `AccountBalance`, `Identify`, `Password`, `Type`, `CreditLimit`, `effectiveDate`) VALUES ('33', '0', '33', '33', '借记卡', '3000', '3');
+INSERT INTO `account` (`CardId`, `AccountBalance`, `Identify`, `Password`, `Type`, `CreditLimit`, `effectiveDate`) VALUES ('4', '0', '4', '4', '借记卡', '4', '4');
+INSERT INTO `account` (`CardId`, `AccountBalance`, `Identify`, `Password`, `Type`, `CreditLimit`, `effectiveDate`) VALUES ('5', '0', '5', '5', '信用卡', '5', '5');
+INSERT INTO `account` (`CardId`, `AccountBalance`, `Identify`, `Password`, `Type`, `CreditLimit`, `effectiveDate`) VALUES ('611280', '1800.0', '122', '123', '借记卡', '2000', '2');
+INSERT INTO `account` (`CardId`, `AccountBalance`, `Identify`, `Password`, `Type`, `CreditLimit`, `effectiveDate`) VALUES ('640277', '0', '333', '1', '信用卡', '2000', '2');
+INSERT INTO `account` (`CardId`, `AccountBalance`, `Identify`, `Password`, `Type`, `CreditLimit`, `effectiveDate`) VALUES ('845151', '0', '22', '1223', '借记卡', '2000', '4');

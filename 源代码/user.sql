@@ -1,0 +1,13 @@
+INSERT INTO `user` (`Username`, `Identify`, `TelNum`, `Address`) VALUES ('朱一龙', '111222333444555666', '112343232', '湖北武汉');
+INSERT INTO `user` (`Username`, `Identify`, `TelNum`, `Address`) VALUES ('拢龙', '11223344', '12343432', '武汉');
+INSERT INTO `user` (`Username`, `Identify`, `TelNum`, `Address`) VALUES ('12', '12', '12', '12');
+INSERT INTO `user` (`Username`, `Identify`, `TelNum`, `Address`) VALUES ('12', '122', '12', '12');
+INSERT INTO `user` (`Username`, `Identify`, `TelNum`, `Address`) VALUES ('12', '1222', '12', '12');
+INSERT INTO `user` (`Username`, `Identify`, `TelNum`, `Address`) VALUES ('1', '123', '123', '123');
+INSERT INTO `user` (`Username`, `Identify`, `TelNum`, `Address`) VALUES ('张三', '22', '23422', '武汉');
+INSERT INTO `user` (`Username`, `Identify`, `TelNum`, `Address`) VALUES ('23', '2333', '23', '23');
+INSERT INTO `user` (`Username`, `Identify`, `TelNum`, `Address`) VALUES ('3', '3', '3', '3');
+INSERT INTO `user` (`Username`, `Identify`, `TelNum`, `Address`) VALUES ('33', '33', '33', '33');
+INSERT INTO `user` (`Username`, `Identify`, `TelNum`, `Address`) VALUES ('22', '333', '222', '1');
+INSERT INTO `user` (`Username`, `Identify`, `TelNum`, `Address`) VALUES ('4', '4', '4', '4');
+INSERT INTO `user` (`Username`, `Identify`, `TelNum`, `Address`) VALUES ('3', '5', '5', '5');
